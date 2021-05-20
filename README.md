@@ -11,7 +11,7 @@ I'm a {backend, frontend and mobile} developer 💞️
 - ✨ Despite the pre-disposition for development I am also passionate about Database 
 - ✍🏼 Always looking for new technologies and learning...
 - 💞️ I’m looking to collaborate on Front-end projects...
-- 💻 Three years of experience as a developer
+- 💻 Two years of experience as a developer
 - 📫 How to reach me caroolmarttins@gmail.com 
 
 
