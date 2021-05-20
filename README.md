@@ -11,7 +11,7 @@ I'm a developer of {backend, frontend and mobile} 3 years ago 💞️
 - ✨ Despite the pre-disposition for development I am also passionate about Database 
 - ✍🏼 Always looking for new technologies and learning...
 - 💞️ I’m looking to collaborate on Front-end projects...
-- 📫 How to reach me caroolmarttins@gmail.com or Suzano-SP - Brazil
+- 📫 How to reach me caroolmarttins@gmail.com 
 
 
 <!---
